@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "632661902942",
+    "firebase_url": "https://admobinandroid.firebaseio.com",
+    "project_id": "admobinandroid",
+    "storage_bucket": "admobinandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632661902942:android:edea2fd55f2fd913",
+        "android_client_info": {
+          "package_name": "com.ptlearnpoint.www.admobinandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632661902942-tdducecfi2hpdfo2oru934rapv4nasmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ptlearnpoint.www.admobinandroid",
+            "certificate_hash": "08F78D67B3BA1C40B9FEB0FA1514134D74204639"
+          }
+        },
+        {
+          "client_id": "632661902942-96ki7t761ouag75hjt646l74jgbgdru3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbaA7TMlP3kaLiyfMPMhDkwkEIhf-JAXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632661902942-96ki7t761ouag75hjt646l74jgbgdru3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
